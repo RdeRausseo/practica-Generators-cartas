@@ -1,19 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-
 .card{
     width: 10%;
     background-color: white;
     height: 300px;
     border-radius: 2%;
     margin: 40px auto; 
+    padding: 10px;
+    position: relative
 }
 
 .numero{
     font-size: 48px;
-    position: a;
 }
 
-.corazon{
-    color: red;
+.palo, .palo-Abajo{
+    font-size: 40px;
 }
